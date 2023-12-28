@@ -2,15 +2,25 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
+This project serves as a starter template for initiating new Flutter projects, featuring pre-defined custom widgets.
 
-This project is a starting point for a Flutter application.
+## Package used
+1.Dio </br>
+   A powerful HTTP networking package for Dart/Flutter, supports Global configuration, Interceptors, FormData, Request cancellation, File uploading/downloading, Timeout, Custom adapters, Transformers, etc.</br></br>
+2.oktoast </br>
+   OkToast is flutter package for show toast messgae.</br></br>
+3.get_storage</br>
+   A fast, extra light and synchronous key-value in memory, which backs up data to disk at each operation. It is written entirely in Dart and easily integrates with Get framework of Flutter.</br></br>
+4.flutter_screentutil</br>
+   ScreenUtilInit is flutter package for adapting screen and font size.Let your UI display a reasonable layout on different screen sizes.</br></br>
+5.intl</br>
+   Contains code to deal with internationalized/localized messages, date and number formatting and parsing, bi-directional text, and other internationalization issues.</br></br>
+6.chewie</br>
+   A video player for Flutter with Cupertino and Material play controls.</br></br>
+7.video_player</br>
+   A Flutter plugin for iOS, Android and Web for playing back video on a Widget surface.</br>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
