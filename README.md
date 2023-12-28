@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 This project serves as a starter template for initiating new Flutter projects, featuring pre-defined custom widgets.
 
 ## Package used
